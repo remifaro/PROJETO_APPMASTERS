@@ -21,7 +21,7 @@ const Search = () => {
 }
 
 useEffect(() => {
-       const searchWithQueryURL = `${searchURL}?${jogo.id}&query=${query}`;
+       const searchWithQueryURL = `https://games-test-api-81e9fb0d564a.herokuapp.com/api/data/?jogo.id&query=${query}`;
        getSearchedJogos(searchWithQueryURL);
 }, [query]);
 
