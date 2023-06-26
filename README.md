@@ -2,7 +2,7 @@
 
 Esse é um projeto de frontend realizado para o processo de seleção de estágio da empresa App Masters, desenvolvido em React sendo uma aplicação para listar dados vindos de uma API externa. 
 
-Exemplo em: 
+Exemplo em: [https://game-appmasters.netlify.app/](https://game-appmasters.netlify.app/)
 
 
 ## Instalação
